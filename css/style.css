@@ -112,17 +112,17 @@ h2{
 .food-item{
     background-color: rgba(130, 199, 199, 0.658);
     padding: 30px 10px;
-    margin: 15px;
+    margin-left: 15px;
 }
 .shelter-item{
     background-color:rgba(241, 87, 87, 0.404) ;
     padding:30px 10px ;
-    margin: 15px;
+    margin-left: 15px;
 }
 .education-item{
     background-color: rgba(245, 176, 151, 0.76);
     padding: 30px 10px;
-    margin: 15px;
+    margin-left: 15px;
 }
 #end-part{
     background-color: black;
