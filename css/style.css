@@ -124,6 +124,36 @@ h2{
     padding: 30px 10px;
     margin-left: 15px;
 }
+.child-main{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 40px;
+}
+.child-img img{
+    width: 500px;
+    height: 400px;
+    margin: 20px 60px;
+}
+.child-text-main{
+    padding-top: 40px;
+    margin-left: 60px;
+}
+.child-head-text{
+    font-size: 60px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 500;
+}
+.child-link{
+    text-decoration: none;
+    padding: 10px 30px;
+    background-color: rgb(224, 47, 47);
+    text-align: center;
+    color: white;
+    font-size: 20px; 
+}
+.child-text-para{
+    padding-bottom: 40px;
+}
 .update-text{
     font-size: 60px;
     font-family: 'Open Sans', sans-serif;
@@ -150,7 +180,7 @@ input[type=email]{
     background-color:rgb(224, 47, 47);
     border: none;
     color: white;
-    padding: 7px 32px;
+    padding: 0px 32px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
