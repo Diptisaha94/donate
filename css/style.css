@@ -153,6 +153,7 @@ h2{
 }
 .child-text-para{
     padding-bottom: 40px;
+    text-align: justify;
 }
 .update-text{
     font-size: 60px;
